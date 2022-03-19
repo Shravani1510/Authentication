@@ -8,5 +8,5 @@ Level-4: Hashing and Salting
 Level-5: cookies and sessions
 Level-6: OAuth 2.0
 
-Implementation.
+Implementation using fontawesome and Bootstrap.
 ![Autho drawio](https://user-images.githubusercontent.com/39625554/159136296-4c325c84-e5d8-4c68-8c3a-da88c7902512.png)
