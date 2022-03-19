@@ -1,5 +1,5 @@
 # Authentication
-Authentication and Security.
+Authentication and Security for creating an Account.
 
 Level-1: Email and Password.
 Level-2: Encryption
